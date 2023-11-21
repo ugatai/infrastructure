@@ -1,0 +1,6 @@
+# Ignore IDE setting files
+/.idea/
+/.vscode/
+
+# Ignore Mac Os
+.DS_Store
