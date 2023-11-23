@@ -22,6 +22,9 @@
 ```
 
 # AWS Certification 🏆
+
+### [My Credly Account 🙍‍](https://www.credly.com/users/username.4d6997bf/badges)
+
 <p align="left">
     <img src="./docs/aws-certified-solutions-architect-associate.png" width="150" alt="logo">
 </p>
